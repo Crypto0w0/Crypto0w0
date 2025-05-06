@@ -1,7 +1,11 @@
 ### Hello there!👋
+
 👩‍💻I code on C#, Java and Python
+
 Fluently speak German🇩🇪 and English🇬🇧
+
 💻Study in computer academy Step, Odesa, Ukraine🇺🇦
+
 🤞Love good music ~
 <!--
 **Crypto0w0/Crypto0w0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
