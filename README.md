@@ -1,6 +1,6 @@
 ### Hello there!👋
 
-👩‍💻I code on C#, Java and Python
+👩‍💻comming soon~~~
 
 Fluently speak German🇩🇪 and English🇬🇧
 
